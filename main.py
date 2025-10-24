@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandle
 import yt_dlp
 import os
 
-BOT_TOKEN = '8391056693:AAFQ3rm3MPaTc4t8-1fltzrO_akmnSkPs2c'
+BOT_TOKEN = '8391056693:AAGgHYVdYuyaveW_X97wg7TUwvmE2wtf2jI'
 
 # Dictionary to track which users have confirmed follow
 user_follow_status = {}
